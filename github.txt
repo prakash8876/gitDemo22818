@@ -39,4 +39,10 @@ https://sdtimes.com/	for software developmment news
 		// This message will show hence 
 
 
-		git add .
+		git add .		//used for to add all the files atonce
+
+
+		git remote add origin https://github.com/prakash8876/gitDemo22818.git
+
+
+		***** This is change for TEst ******
