@@ -1,0 +1,20 @@
+http://collabedit.com/g9ur6
+
+https://www.techdenovo.com/git-and-its-commands-and-github/
+
+https://git-scm.com/
+
+jiofi ken56xsg1t
+
+
+git -v to check git 
+
+git --version 
+
+https://sdtimes.com/	for software developmment news
+
+
+	git init		
+		git status
+
+			git add (filename) 	//used to add file
