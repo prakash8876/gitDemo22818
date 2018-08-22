@@ -18,3 +18,25 @@ https://sdtimes.com/	for software developmment news
 		git status
 
 			git add (filename) 	//used to add file
+
+
+
+>> git commits is nothing but saving the stage of state.
+
+	
+	git commit -m "message"	
+>		*** Please tell me who you are.
+>
+>Run
+>
+>  git config --global user.email "you@example.com"
+>  git config --global user.name "Your Name"
+>
+>to set your account's default identity.
+>Omit --global to set the identity only in this repository.
+>
+>fatal: unable to auto-detect email address (got 'Prakash@DESKTOP-UQ5D4HB.(none)')
+		// This message will show hence 
+
+
+		git add .
